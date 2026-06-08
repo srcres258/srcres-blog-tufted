@@ -9,9 +9,7 @@
 
 # QEMU 训练营 2026 专业阶段总结
 
-#quote(block: true)[
 - 作者：[@srcres258](https://github.com/srcres258)
-]
 
 ---
 
