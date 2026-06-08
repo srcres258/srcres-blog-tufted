@@ -31,8 +31,10 @@
 //   )
 // }
 
-= srcres258's Blog
+= srcres258
 
 Welcome.
 
 Here I will write something related to technologies and programming strategies I have encountered in my work.
+
+Refer to #link("blog/")[my blog].
