@@ -7,5 +7,5 @@
     "/blog/": "Blog",
     "/cv/": "CV",
   ),
-  title: "Tufted",
+  title: "srcres258"
 )
