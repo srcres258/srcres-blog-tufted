@@ -6,6 +6,7 @@
     "/docs/": "Docs",
     "/blog/": "Blog",
     "/cv/": "CV",
+    "/friends/": "Friends"
   ),
   title: "srcres258"
 )
